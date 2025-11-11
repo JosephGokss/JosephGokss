@@ -612,7 +612,7 @@ Promise runs after all increments
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=JosephGokss&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=001a33" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=JosephGokss" alt="Profile Views"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/github/followers/JosephGokss?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=001a33&logo=github" alt="Followers"/>
@@ -625,10 +625,10 @@ Promise runs after all increments
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   "The cure for anything is salt water:                  ║
-║    sweat, tears, or the sea... and clean code!"          ║
-║                                        - Isak Dinesen     ║
-║                                          (modified)       ║
+║   "The cure for anything is salt water:                   ║
+║    sweat, tears, or the sea... and clean code!"           ║
+║                                        - YoungBro.        ║
+║                                                           ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
