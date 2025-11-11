@@ -76,7 +76,7 @@
 <tr>
 <td align="center" width="100%">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=john_doe_123&cover_image=true&theme=default&show_offline=true&background_color=001a33&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=john_doe_123&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316hvz23igudoyvsfbumurlv7s4a&cover_image=true&theme=default&show_offline=true&background_color=001a33&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316hvz23igudoyvsfbumurlv7s4a&redirect=true)
 
 *🎧 Deep ocean sounds + Lo-fi beats = Perfect coding ambience 🌊*
 
