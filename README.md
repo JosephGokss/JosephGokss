@@ -576,7 +576,7 @@ Promise runs after all increments
 </td>
 <td align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-001a33?style=for-the-badge&logo=instagram&logoColor=00FFFF&labelColor=001a33)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-001a33?style=for-the-badge&logo=instagram&logoColor=00FFFF&labelColor=001a33)](https://www.instagram.com/zaenthh/)
 
 </td>
 <td align="center">
@@ -612,10 +612,10 @@ Promise runs after all increments
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=001a33" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=JosephGokss&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=001a33" alt="Profile Views"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=001a33&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/JosephGokss?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=001a33&logo=github" alt="Followers"/>
 </td>
 </tr>
 </table>
