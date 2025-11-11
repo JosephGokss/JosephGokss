@@ -519,7 +519,7 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://syncyoulinktree.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=linktree&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/JosephGokss/linktree)
 
 </td>
 <td width="50%">
