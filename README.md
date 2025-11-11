@@ -35,7 +35,7 @@
 <tr>
 <td width="50%" align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=001a33&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=00CED1" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephGokss&theme=highcontrast&hide_border=true&background=001a33&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=00CED1" alt="GitHub Streak"/>
 
 </td>
 <td width="50%" align="center">
@@ -477,12 +477,12 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGokss&layout=compact&langs_count=10&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
 
 </td>
 <td width="50%">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=high-contrast&hide_border=true&bg_color=001a33&color=00FFFF&line=00CED1&point=FFFFFF&area=true&area_color=00CED1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephGokss&theme=high-contrast&hide_border=true&bg_color=001a33&color=00FFFF&line=00CED1&point=FFFFFF&area=true&area_color=00CED1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td>
 </tr>
@@ -490,7 +490,7 @@ Promise runs after all increments
 
 ### 🏆 Trophy Cabinet from the Depths
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JosephGokss&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -519,12 +519,12 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://you-reportingweb.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://syncyoulinktree.netlify.app/)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://syncyoulinktree.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://you-reportingweb.netlify.app/)
 
 </td>
 </tr>
