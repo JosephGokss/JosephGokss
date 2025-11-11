@@ -506,12 +506,12 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PROJECT_1&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://porotofolioskl1js.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PORTOFOLIO &hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/JosephGokss/PORTOFOLIO)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PROJECT_2&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://webgameforge.netlify.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=isi_nama_reponya&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://webgameforge.netlify.app/)
 
 </td>
 </tr>
