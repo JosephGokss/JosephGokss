@@ -76,7 +76,11 @@
 <tr>
 <td align="center" width="100%">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316hvz23igudoyvsfbumurlv7s4a&cover_image=true&theme=default&show_offline=true&background_color=001a33&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316hvz23igudoyvsfbumurlv7s4a&redirect=true)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/316hvz23igudoyvsfbumurlv7s4a)
+
+**OR use this static badge while service is down:**
+
+[![Spotify](https://img.shields.io/badge/Spotify-Currently%20Listening-001a33?style=for-the-badge&logo=spotify&logoColor=00FFFF)](https://open.spotify.com/user/316hvz23igudoyvsfbumurlv7s4a)
 
 *🎧 Deep ocean sounds + Lo-fi beats = Perfect coding ambience 🌊*
 
