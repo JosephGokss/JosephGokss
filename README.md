@@ -40,7 +40,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&ring_color=00FFFF" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JosephGokss&show_icons=true&theme=algolia&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&ring_color=00FFFF" alt="GitHub Stats"/>
 
 </td>
 </tr>
