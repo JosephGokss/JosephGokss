@@ -506,12 +506,12 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://porotofolioskl1js.netlify.app/)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://webgameforge.netlify.app/)
 
 </td>
 </tr>
@@ -519,12 +519,12 @@ Promise runs after all increments
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://you-reportingweb.netlify.app/)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://syncyoulinktree.netlify.app/)
 
 </td>
 </tr>
@@ -544,12 +544,12 @@ Promise runs after all increments
 <tr>
 <td align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001a33?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=001a33)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001a33?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=001a33)](https://www.linkedin.com/in/yusuf-al-fatih-36714a37a/)
 
 </td>
 <td align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-001a33?style=for-the-badge&logo=twitter&logoColor=00FFFF&labelColor=001a33)](https://twitter.com/YOUR_TWITTER)
+[![Twitter](https://img.shields.io/badge/Twitter-001a33?style=for-the-badge&logo=twitter&logoColor=00FFFF&labelColor=001a33)](https://x.com/ZelikeCoco)
 
 </td>
 <td align="center">
@@ -559,7 +559,7 @@ Promise runs after all increments
 </td>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-001a33?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=001a33)](https://YOUR_WEBSITE.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-001a33?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=001a33)](https://syncyoulinktree.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnhEZx_i54bNfUhsOi5vEEuCWyoCGC61aFXxqCgqOMpr-o5LT2xx0djU96qm4_aem_DaUtc0Tf4kpzYefz-FjEFQ)
 
 </td>
 </tr>
@@ -581,7 +581,7 @@ Promise runs after all increments
 </td>
 <td align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-001a33?style=for-the-badge&logo=youtube&logoColor=00FFFF&labelColor=001a33)](https://youtube.com/@YOUR_YOUTUBE)
+[![YouTube](https://img.shields.io/badge/YouTube-001a33?style=for-the-badge&logo=youtube&logoColor=00FFFF&labelColor=001a33)](https://www.youtube.com/@YusufAlFatihJaelani)
 
 </td>
 </tr>
@@ -612,7 +612,7 @@ Promise runs after all increments
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=JosephGokss" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=JosephGokss&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=001a33" alt="Profile Views"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/github/followers/JosephGokss?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=001a33&logo=github" alt="Followers"/>
@@ -688,7 +688,7 @@ Consider supporting my journey through the digital depths!
 
 ## 🌊 Snake Game - Watch it consume my contributions! 🐍
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/JosephGokss/JosephGokss/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
