@@ -524,7 +524,7 @@ Promise runs after all increments
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/JosephGokss/E-Reporting-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosephGokss&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://josephgokss.github.io/E-Reporting-web/)
 
 </td>
 </tr>
