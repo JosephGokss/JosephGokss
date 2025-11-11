@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Deep%20Ocean%20Coder&fontSize=50&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Diving%20Into%20The%20Abyss%20of%20Code&descSize=20&descAlignY=55" width="100%"/>
+
 ```
     ___    ___  ___   ____  ___   _  __   _____  ____   ____   _____ 
    / _ \  / _ \/ _ ) / __/ / _ \ / |/ /  / ___/ / __ \ / __ \ / ___/ 
@@ -15,253 +17,701 @@
                   /_/                                                  
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deep%20Ocean%20Coder&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
 ### 🐋 *"In the depths of code, I find my flow"*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%8C%8A;Ocean+Enthusiast+%F0%9F%90%A0;Open+Source+Contributor+%F0%9F%90%99;Building+the+future%2C+one+commit+at+a+time+%F0%9F%8C%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E_+Full+Stack+Developer+%F0%9F%8C%8A;%3E_+Deep+Sea+Code+Explorer+%F0%9F%90%A0;%3E_+Open+Source+Contributor+%F0%9F%90%99;%3E_+Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ---
 
-## 🎣 Current Status
+## 🎣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Current Status
 
 <div align="center">
 
-| 🌊 Ocean Level | 💻 Coding Streak | 🐟 Projects Caught | ⚓ Contributions |
-|:---:|:---:|:---:|:---:|
-| Deep Sea Explorer | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=ocean-dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&logo=github&style=for-the-badge) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=%24.total_contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&logo=githubactions&style=for-the-badge) |
+<table>
+<tr>
+<td width="50%" align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=001a33&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=00CED1" alt="GitHub Streak"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&ring_color=00FFFF" alt="GitHub Stats"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #001a33 0%, #003d5c 100%);">
+
+```diff
+@@ System Status @@
++ 🌊 Ocean Level: Abyssal Zone (11,000m)
++ 💻 Coding Mode: Deep Focus Protocol
++ 🐟 Active Projects: Hunting Big Fish
++ ⚓ Last Deploy: Successfully Surfaced
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🎵 Currently Vibing To
+## 🎵 <img src="https://media.giphy.com/media/j5IFcuKu2wxwaTLhtr/giphy.gif" width="35"> Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+<table>
+<tr>
+<td align="center" width="100%">
 
-*🎧 Music fuels the deep dive into code*
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=001a33&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+*🎧 Deep ocean sounds + Lo-fi beats = Perfect coding ambience 🌊*
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🐠 Tech Stack - My Ocean Toolkit
+## 🐠 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack - My Ocean Toolkit
 
 <div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### ⚡ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-001a33?style=for-the-badge&logo=javascript&logoColor=00FFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-001a33?style=for-the-badge&logo=typescript&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-001a33?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Go](https://img.shields.io/badge/Go-001a33?style=for-the-badge&logo=go&logoColor=00FFFF)
+![Rust](https://img.shields.io/badge/Rust-001a33?style=for-the-badge&logo=rust&logoColor=00FFFF)
+![Java](https://img.shields.io/badge/Java-001a33?style=for-the-badge&logo=openjdk&logoColor=00FFFF)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 ### 🌊 Frontend Waves
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-001a33?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Next.js](https://img.shields.io/badge/Next.js-001a33?style=for-the-badge&logo=next.js&logoColor=00FFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-001a33?style=for-the-badge&logo=vue.js&logoColor=00FFFF)
+![Svelte](https://img.shields.io/badge/Svelte-001a33?style=for-the-badge&logo=svelte&logoColor=00FFFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-001a33?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF)
+![Three.js](https://img.shields.io/badge/Three.js-001a33?style=for-the-badge&logo=three.js&logoColor=00FFFF)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 ### 🐙 Backend Currents
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-001a33?style=for-the-badge&logo=node.js&logoColor=00FFFF)
+![Express](https://img.shields.io/badge/Express-001a33?style=for-the-badge&logo=express&logoColor=00FFFF)
+![Django](https://img.shields.io/badge/Django-001a33?style=for-the-badge&logo=django&logoColor=00FFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-001a33?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
+![GraphQL](https://img.shields.io/badge/GraphQL-001a33?style=for-the-badge&logo=graphql&logoColor=00FFFF)
+![NestJS](https://img.shields.io/badge/NestJS-001a33?style=for-the-badge&logo=nestjs&logoColor=00FFFF)
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
 
 ### 🗄️ Database Depths
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001a33?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-001a33?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![Redis](https://img.shields.io/badge/Redis-001a33?style=for-the-badge&logo=redis&logoColor=00FFFF)
+![MySQL](https://img.shields.io/badge/MySQL-001a33?style=for-the-badge&logo=mysql&logoColor=00FFFF)
+![Supabase](https://img.shields.io/badge/Supabase-001a33?style=for-the-badge&logo=supabase&logoColor=00FFFF)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 ### ☁️ Cloud Ocean
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
 
-### 🔱 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-001a33?style=for-the-badge&logo=amazon-aws&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-001a33?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![Kubernetes](https://img.shields.io/badge/K8s-001a33?style=for-the-badge&logo=kubernetes&logoColor=00FFFF)
+![Vercel](https://img.shields.io/badge/Vercel-001a33?style=for-the-badge&logo=vercel&logoColor=00FFFF)
+![GCP](https://img.shields.io/badge/GCP-001a33?style=for-the-badge&logo=google-cloud&logoColor=00FFFF)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### 🔱 Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-001a33?style=for-the-badge&logo=git&logoColor=00FFFF)
+![Linux](https://img.shields.io/badge/Linux-001a33?style=for-the-badge&logo=linux&logoColor=00FFFF)
+![Vim](https://img.shields.io/badge/Vim-001a33?style=for-the-badge&logo=vim&logoColor=00FFFF)
+![VSCode](https://img.shields.io/badge/VSCode-001a33?style=for-the-badge&logo=visual-studio-code&logoColor=00FFFF)
+![Figma](https://img.shields.io/badge/Figma-001a33?style=for-the-badge&logo=figma&logoColor=00FFFF)
+
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🎮 Mini Games Zone
+## 🎮 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="35"> Mini Games Zone
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 <details>
-<summary><b>🐡 Click to Play: Catch the Fish! 🐡</b></summary>
+<summary><h3>🐡 Catch the Digital Fish! 🐡</h3></summary>
+
+```ascii
+╔═══════════════════════════════════════╗
+║  🌊  DEEP  OCEAN  FISHING  GAME  🌊  ║
+╚═══════════════════════════════════════╝
+
+    🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+    🌊                          🌊
+    🌊   🐟         🐠     🐙   🌊
+    🌊        🦈                🌊
+    🌊  🐠        🐡    🦑      🌊
+    🌊                  🐟      🌊
+    🌊     🐙   🐠         🦈   🌊
+    🌊                          🌊
+    🌊    ⚓ YOU ARE HERE ⚓    🌊
+    🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+
+╔═══════════════════════════════════════╗
+║ 🎣 Score: Star my repos!              ║
+║ 🏆 High Score: Fork my projects!      ║
+║ 💎 Bonus: Contribute = MEGA POINTS!   ║
+║ 🌟 Achievement: Follow for updates!   ║
+╚═══════════════════════════════════════╝
+
+  [PLAY] → Visit my pinned repositories!
+```
+
+</details>
+
+</td>
+
+<td width="50%">
+
+<details>
+<summary><h3>🦈 Ocean Code Trivia 🦈</h3></summary>
+
+```diff
+╔═══════════════════════════════════════╗
+║        DEEP SEA CODE KNOWLEDGE        ║
+╚═══════════════════════════════════════╝
+
+@@ Q1: Deepest Ocean Trench? @@
+```
+<details>
+<summary>🔍 Click to dive deeper...</summary>
+
+```yaml
+Answer: Mariana Trench (~11,000m)
+Fun Fact: Deeper than my git history!
+Pressure: 1000x atmospheric pressure
+Code Equivalent: Handling production bugs at 3AM
+```
+</details>
+
+```diff
+@@ Q2: Fastest Ocean Predator? @@
+```
+<details>
+<summary>🔍 Click to dive deeper...</summary>
+
+```yaml
+Answer: Black Marlin (130 km/h)
+Fun Fact: Still slower than npm install!
+Speed: Like my deployment pipeline
+Code Equivalent: Async/await in action
+```
+</details>
+
+```diff
+@@ Q3: How many species in the ocean? @@
+```
+<details>
+<summary>🔍 Click to dive deeper...</summary>
+
+```yaml
+Answer: ~2.2 million species
+Fun Fact: Almost as many as JS frameworks!
+Biodiversity: Infinite like npm packages
+Code Equivalent: GitHub repositories count
+```
+</details>
+
+```diff
+@@ Q4: Ocean covers what % of Earth? @@
+```
+<details>
+<summary>🔍 Click to dive deeper...</summary>
+
+```yaml
+Answer: 71% of Earth's surface
+Fun Fact: Like bugs in production code!
+Coverage: Same as my test coverage goals
+Code Equivalent: Docker containers everywhere
+```
+</details>
 
 ```
-🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-🌊                              🌊
-🌊    🐟          🐠      🐙    🌊
-🌊         🦈                   🌊
-🌊  🐠         🐡      🦑       🌊
-🌊                    🐟        🌊
-🌊      🐙    🐠          🦈    🌊
-🌊                              🌊
-🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-
-🎣 Your Score: Check my pinned repos!
-🏆 High Score: ⭐ Star my projects!
-💎 Bonus: Fork = Extra points!
+╔═══════════════════════════════════════╗
+║ 🎓 Knowledge Level: ABYSSAL MASTER   ║
+║ 🌟 Achievement: Deep Sea Scholar      ║
+╚═══════════════════════════════════════╝
 ```
 
 </details>
 
-<details>
-<summary><b>🦈 Ocean Trivia: Test Your Knowledge! 🦈</b></summary>
+</td>
+</tr>
 
-**Q1: What percentage of the ocean has been explored?**
-<details>
-<summary>Click for answer</summary>
-Only about 5%! Just like there's always more code to explore 🌊
-</details>
-
-**Q2: What's the deepest part of the ocean?**
-<details>
-<summary>Click for answer</summary>
-The Mariana Trench (~11,000m) - deeper than my git commit history! 🏔️
-</details>
-
-**Q3: How many species live in the ocean?**
-<details>
-<summary>Click for answer</summary>
-Over 2 million species! Almost as many as JavaScript frameworks 😄
-</details>
-
-</details>
+<tr>
+<td width="50%">
 
 <details>
-<summary><b>🐚 Code Shell: Guess the Output! 🐚</b></summary>
+<summary><h3>🐚 Code Shell Challenge 🐚</h3></summary>
 
 ```javascript
+╔═══════════════════════════════════════╗
+║       DECODE THE OCEAN MYSTERY        ║
+╚═══════════════════════════════════════╝
+
+// Challenge 1: Array Currents
 const ocean = ['🐟', '🐠', '🐡', '🦈'];
 const deepSea = ocean.map(fish => fish + '💧');
 console.log(deepSea.length);
 ```
 
 <details>
-<summary>What's the output?</summary>
+<summary>💡 Reveal the depths...</summary>
+
+```javascript
+Output: 4
+Explanation: Each fish now swims with water!
+Result: ['🐟💧', '🐠💧', '🐡💧', '🦈💧']
+
+🌊 Complexity: O(n) - Linear like ocean currents
+```
+</details>
+
+```javascript
+// Challenge 2: Deep Recursion
+function dive(depth) {
+  if (depth === 0) return '🏝️';
+  return '🌊' + dive(depth - 1);
+}
+console.log(dive(3));
+```
+
+<details>
+<summary>💡 Reveal the depths...</summary>
+
+```javascript
+Output: '🌊🌊🌊🏝️'
+Explanation: Recursive dive to the island!
+Pattern: Each call adds one wave layer
+
+🌊 Depth: Stack grows like ocean pressure
+```
+</details>
+
+```javascript
+// Challenge 3: Async Ocean
+async function catchFish() {
+  const fish = await Promise.all([
+    fetch('deep-sea/🐟'),
+    fetch('deep-sea/🐠'),
+    fetch('deep-sea/🦈')
+  ]);
+  return fish.length;
+}
+```
+
+<details>
+<summary>💡 Reveal the depths...</summary>
+
+```javascript
+Output: 3 (when all promises resolve)
+Explanation: Parallel fishing expedition!
+Power: All fish caught simultaneously
+
+🌊 Speed: Concurrent like ocean tides
+```
+</details>
 
 ```
-4
-// Each fish now swims with a water drop! 🌊
+╔═══════════════════════════════════════╗
+║ 🏆 Code Master: LEGENDARY DIVER      ║
+║ 💻 Next Level: Contribute to my repos ║
+╚═══════════════════════════════════════╝
 ```
 
 </details>
 
+</td>
+
+<td width="50%">
+
+<details>
+<summary><h3>🎯 Quick Code Quiz 🎯</h3></summary>
+
+```typescript
+╔═══════════════════════════════════════╗
+║         RAPID FIRE CHALLENGE          ║
+╚═══════════════════════════════════════╝
+
+// Q1: What's the output?
+[1, 2, 3].map(n => n * 2).filter(n => n > 3)
+```
+<details>
+<summary>Answer</summary>
+```typescript
+[4, 6] - Doubled then filtered!
+```
 </details>
 
----
+```typescript
+// Q2: Fix the bug!
+const user = { name: 'Diver' };
+user.name = undefined;
+console.log(user.name ?? 'Guest');
+```
+<details>
+<summary>Answer</summary>
+```typescript
+Output: undefined
+Fix: Use || instead of ??
+Nullish coalescing doesn't catch undefined!
+```
+</details>
 
-## 📊 GitHub Ocean Stats
+```typescript
+// Q3: Race condition?
+let count = 0;
+[1,2,3].forEach(() => count++);
+Promise.resolve().then(() => console.log(count));
+```
+<details>
+<summary>Answer</summary>
+```typescript
+Output: 3
+forEach is synchronous
+Promise runs after all increments
+```
+</details>
 
-<div align="center">
+```
+╔═══════════════════════════════════════╗
+║ 🎮 Game Over - Play Again?           ║
+║ 🌟 Star repos to unlock more levels!  ║
+╚═══════════════════════════════════════╝
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+</details>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophy Cabinet
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌊 Activity Ocean
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐙 Featured Ocean Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/PROJECT_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/PROJECT_2)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/PROJECT_3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=ocean_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/PROJECT_4)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+</td>
+</tr>
+</table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 💭 Random Dev Quote
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Ocean Analytics
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
+
+</td>
+<td width="50%">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=high-contrast&hide_border=true&bg_color=001a33&color=00FFFF&line=00CED1&point=FFFFFF&area=true&area_color=00CED1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
+
+### 🏆 Trophy Cabinet from the Depths
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🐙 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Ocean Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_1)
+
+</td>
+<td width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_2)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_3)
+
+</td>
+<td width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true&bg_color=001a33&title_color=00FFFF&icon_color=00CED1&text_color=FFFFFF&border_radius=10)](https://github.com/YOUR_USERNAME/PROJECT_4)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🌐 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me Across The Digital Ocean
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001a33?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=001a33)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+</td>
+<td align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-001a33?style=for-the-badge&logo=twitter&logoColor=00FFFF&labelColor=001a33)](https://twitter.com/YOUR_TWITTER)
+
+</td>
+<td align="center">
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-001a33?style=for-the-badge&logo=dev.to&logoColor=00FFFF&labelColor=001a33)](https://dev.to/YOUR_DEVTO)
+
+</td>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-001a33?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=001a33)](https://YOUR_WEBSITE.com)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-001a33?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=001a33)](mailto:YOUR_EMAIL@gmail.com)
+
+</td>
+<td align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-001a33?style=for-the-badge&logo=discord&logoColor=00FFFF&labelColor=001a33)](https://discord.gg/YOUR_DISCORD)
+
+</td>
+<td align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-001a33?style=for-the-badge&logo=instagram&logoColor=00FFFF&labelColor=001a33)](https://instagram.com/YOUR_INSTAGRAM)
+
+</td>
+<td align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-001a33?style=for-the-badge&logo=youtube&logoColor=00FFFF&labelColor=001a33)](https://youtube.com/@YOUR_YOUTUBE)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 💭 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Deep Thoughts from the Abyss
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20ocean%20stirs%20the%20heart,%20inspires%20the%20imagination%20and%20brings%20eternal%20joy%20to%20the%20soul.&author=Wyland)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🐚 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Ocean Metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=001a33" alt="Profile Views"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=001a33&logo=github" alt="Followers"/>
+</td>
+</tr>
+</table>
+
+### 🌊 *"Every visitor creates ripples in my digital ocean"*
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "The cure for anything is salt water:                  ║
+║    sweat, tears, or the sea... and clean code!"          ║
+║                                        - Isak Dinesen     ║
+║                                          (modified)       ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🎁 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Support The Ocean Journey
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 💙 If my work creates waves in your code ocean
+
+Consider supporting my journey through the digital depths!
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-001a33?style=for-the-badge&logo=buy-me-a-coffee&logoColor=00FFFF)](https://buymeacoffee.com/YOUR_USERNAME)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-001a33?style=for-the-badge&logo=ko-fi&logoColor=00FFFF)](https://ko-fi.com/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-001a33?style=for-the-badge&logo=paypal&logoColor=00FFFF)](https://paypal.me/YOUR_USERNAME)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+```diff
+@@ Or simply: @@
++ ⭐ Star my repositories
++ 🔱 Fork interesting projects  
++ 💬 Engage in discussions
++ 🤝 Contribute to open source
++ 📢 Share with other developers
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+## 🌊 Snake Game - Watch it consume my contributions! 🐍
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ---
 
-## 🐚 Visitor Counter
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+### 🌊 Made with 💙 from the Digital Ocean Depths
 
-### 🌊 *"Every visitor is a wave in my digital ocean"*
+```ascii
+    .       .       .       .       .       .
+  .    .  🐋   .      .   🐠    .    .  🦈
+      .        .    .    .    .  .      .    .
+.   🐟   .  .     🌊🌊🌊🌊🌊🌊🌊    .    .
+    .        🐠   🌊  THANKS   🌊  .   🐡  .
+  .    .  .    . 🌊  FOR THE  🌊    .       .
+    .       .    🌊   VISIT!  🌊  .    .
+.     🐙    .    🌊🌊🌊🌊🌊🌊🌊      .   🦑  .
+  .      .    .      .     .   .       .
+```
 
-</div>
+**⚓ Dive deep, code deeper, surface with solutions ⚓**
 
----
-
-<div align="center">
-
-### 🌊 Support My Ocean Journey
-
-If you like my work, consider buying me a coffee ☕ or starring my repos ⭐
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-**💙 Thanks for diving into my ocean! Happy coding! 🌊**
+<img src="https://img.shields.io/badge/Last%20Updated-November%202025-00ffff?style=for-the-badge&labelColor=001a33" alt="Last Updated"/>
 
 </div>
